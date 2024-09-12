@@ -877,6 +877,7 @@ select{
         height: 10px;
         position: relative;
         top: 1.7px;
+        left: -7px;
     }
      .post div p{
         font-size: 10px;
